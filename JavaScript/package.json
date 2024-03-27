@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "javascript",
+    "version": "1.0.0",
+    "description": "HTTP server using nodejs",
+    "main": "server.js",
+    "scripts": {
+        "test": "node server.js",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "http"
+    ],
+    "author": "Rahul Chakraborty",
+    "license": "ISC"
+}
